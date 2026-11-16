@@ -1,4 +1,4 @@
-# Automated Quiz Contest
+# Quber
 
 An interactive web-based quiz application built using HTML, CSS, and Vanilla JavaScript. The application provides a timed quiz experience with automatic answer validation, progress tracking, score calculation, instant feedback, and a final performance summary.
 
